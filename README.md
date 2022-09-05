@@ -1,8 +1,10 @@
 ## Apps to install via TrollStore!
 
-1. [Filza](https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/FilzaTS_BZ.ipa)
+Download IPA from below and Install via TrollStore.
 
-2. [CocoaTop](https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/CocoaTopTS_BZ.ipa)
+1. Download [Filza](https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/FilzaTS_BZ.ipa)
+
+2. Download [CocoaTop](https://raw.githubusercontent.com/baziex/TrollStoreApps/main/TrollStoreApps/CocoaTopTS_BZ.ipa)
 ##
 Follow me on [Twitter @imbazim](https://www.twitter.com/imbazim)
 
